@@ -1,6 +1,6 @@
 # Codewars-Katas
 
-Does my number look big in this?
+Does my number look big in this? (6kyu)
 https://www.codewars.com/kata/5287e858c6b5a9678200083c
 
 Find the Parity Outlier (6kyu)
