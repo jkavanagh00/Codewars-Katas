@@ -27,5 +27,8 @@ https://www.codewars.com/kata/52597aa56021e91c93000cb0
 Simple Pig Latin (5kyu)
 https://www.codewars.com/kata/520b9d2ad5c005041100000f
 
+Split strings (6kyu)
+https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+
 Tic-Tac-Toe Checker (5kyu)
 https://www.codewars.com/kata/525caa5c1bf619d28c000335
