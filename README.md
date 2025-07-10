@@ -39,5 +39,5 @@ https://www.codewars.com/kata/5264d2b162488dc400000001
 Tic-Tac-Toe Checker (5kyu)
 https://www.codewars.com/kata/525caa5c1bf619d28c000335
 
-Which are in?
+Which are in? (6kyu)
 https://www.codewars.com/kata/550554fd08b86f84fe000a58
