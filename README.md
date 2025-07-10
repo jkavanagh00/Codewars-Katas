@@ -1,5 +1,8 @@
 # Codewars-Katas
 
+Convert string to camel case (6kyu)
+https://www.codewars.com/kata/517abf86da9663f1d2000003
+
 Decode the Morse Code (6kyu)
 https://www.codewars.com/kata/54b724efac3d5402db00065e
 
