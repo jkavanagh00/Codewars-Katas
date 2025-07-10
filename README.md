@@ -6,6 +6,9 @@ https://www.codewars.com/kata/54b724efac3d5402db00065e
 Does my number look big in this? (6kyu)
 https://www.codewars.com/kata/5287e858c6b5a9678200083c
 
+Find the odd int (6kyu)
+https://www.codewars.com/kata/54da5a58ea159efa38000836
+
 Find the Parity Outlier (6kyu)
 https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
