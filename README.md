@@ -1,6 +1,6 @@
 # Codewars-Katas
 
-Consonant value(6kyu)
+Consonant value (6kyu)
 https://www.codewars.com/kata/59c633e7dcc4053512000073
 
 Convert string to camel case (6kyu)
