@@ -48,6 +48,9 @@ https://www.codewars.com/kata/5264d2b162488dc400000001
 The Hashtag Generator (5kyu)
 https://www.codewars.com/kata/52449b062fb80683ec000024
 
+The Vowel Code (6kyu)
+https://www.codewars.com/kata/53697be005f803751e0015aa
+
 Tic-Tac-Toe Checker (5kyu)
 https://www.codewars.com/kata/525caa5c1bf619d28c000335
 
