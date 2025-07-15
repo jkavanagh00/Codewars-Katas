@@ -1,5 +1,8 @@
 # Codewars-Katas
 
+Break camel case (6kyu)
+https://www.codewars.com/kata/5208f99aee097e6552000148
+
 Consonant value (6kyu)
 https://www.codewars.com/kata/59c633e7dcc4053512000073
 
