@@ -1,17 +1,17 @@
-function score( dice ) {
+function score(dice) {
   let score = 0;
   const results = countResults(dice);
-  const keys = Object.keys(results);
-  for (let i = 0; i < 6; i++) {
-    const key = keys[i];
-    const result = results[i+1]
-    key === '1' && result < 3 ? score += 100 * result : score;
-    key === '1' && result === 3 ? score += 1000 : score;
-    key === '1' && result > 3 ? score += 1000 + (100 * (result-3)) : score;
-    key === '5' && result < 3 ? score += result * 50 : score;
-    key === '5' && result === 3 ? score += 500 : score;
-    key === '5' && result > 3 ? score += 500 + (50 * (result-3)) : score;
-    key !== '1' && key !== '5' && result >= 3 ? score += (i+1) * 100 : score;
+  for (let num = 1; num <= 6; num++) {
+    const count = results[num];
+    if (num === 1) {
+      if (count >= 3) score += 1000 + (count - 3) * 100;
+      else score += count * 100;
+    } else if (num === 5) {
+      if (count >= 3) score += 500 + (count - 3) * 50;
+      else score += count * 50;
+    } else if (count >= 3) {
+      score += num * 100;
+    }
   }
   return score;
 }
