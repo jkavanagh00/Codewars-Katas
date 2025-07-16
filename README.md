@@ -1,5 +1,8 @@
 # Codewars-Katas
 
+Array Helpers (6kyu)
+https://www.codewars.com/kata/525d50d2037b7acd6e000534
+
 Break camel case (6kyu)
 https://www.codewars.com/kata/5208f99aee097e6552000148
 
