@@ -51,6 +51,9 @@ https://www.codewars.com/kata/520b9d2ad5c005041100000f
 Split strings (6kyu)
 https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 
+String incrementer (5kyu)
+https://www.codewars.com/kata/54a91a4883a7de5d7800009c
+
 Stop gninnipS My sdroW! (6kyu)
 https://www.codewars.com/kata/5264d2b162488dc400000001
 
