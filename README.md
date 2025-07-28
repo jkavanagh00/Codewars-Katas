@@ -30,6 +30,9 @@ https://www.codewars.com/kata/5270d0d18625160ada0000e4
 Human readable duration format (4kyu)
 https://www.codewars.com/kata/52742f58faf5485cae000b9a
 
+Kebabize (6kyu)
+https://www.codewars.com/kata/57f8ff867a28db569e000c4a
+
 Lottery Ticket (6kyu)
 https://www.codewars.com/kata/57f625992f4d53c24200070e
 
