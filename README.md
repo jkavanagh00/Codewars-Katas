@@ -12,6 +12,9 @@ https://www.codewars.com/kata/59c633e7dcc4053512000073
 Convert string to camel case (6kyu)
 https://www.codewars.com/kata/517abf86da9663f1d2000003
 
+Count characters in your string (6kyu)
+https://www.codewars.com/kata/52efefcbcdf57161d4000091
+
 Decode the Morse Code (6kyu)
 https://www.codewars.com/kata/54b724efac3d5402db00065e
 
