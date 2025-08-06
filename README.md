@@ -48,11 +48,14 @@ https://www.codewars.com/kata/52597aa56021e91c93000cb0
 Multiplication table (6kyu)
 https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
 
+Race (6kyu)
+https://www.codewars.com/kata/55e2adece53b4cdcb900006c
+
+Rot13 (5kyu)
+https://www.codewars.com/kata/530e15517bc88ac656000716
+
 Simple Pig Latin (5kyu)
 https://www.codewars.com/kata/520b9d2ad5c005041100000f
-
-Rot13
-https://www.codewars.com/kata/530e15517bc88ac656000716
 
 Split strings (6kyu)
 https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
