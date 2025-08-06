@@ -51,6 +51,9 @@ https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
 Simple Pig Latin (5kyu)
 https://www.codewars.com/kata/520b9d2ad5c005041100000f
 
+Rot13
+https://www.codewars.com/kata/530e15517bc88ac656000716
+
 Split strings (6kyu)
 https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 
